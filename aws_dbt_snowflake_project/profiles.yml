@@ -1,0 +1,15 @@
+# this is my secret credentials and do not show to anyone.i can find this in home use command (ctrl+h in home). you will find the .dbt hidden folder in that u will find profiles.yml file . this is the below data u will find in it.
+
+aws_dbt_snowflake_project:
+  outputs:
+    dev:
+      account: QYXJVCV-HR40154
+      database: AIR_BNB
+      password: Vimal235235235.@
+      role: ACCOUNTADMIN
+      schema: dbt_schema
+      threads: 1
+      type: snowflake
+      user: VIMAL23
+      warehouse: COMPUTE_WH
+  target: dev

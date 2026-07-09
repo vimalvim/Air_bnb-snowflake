@@ -1,0 +1,4 @@
+{
+    "dbt.perspectiveTheme": "Vintage",
+    "dbt.dbtPythonPathOverride": "/var/www/html/AWS_DBT_Snowflake/.venv/bin/python3"
+}

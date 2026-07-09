@@ -1,0 +1,10 @@
+# Indentation is very important here
+
+sources:
+  - name: staging
+    database: AIR_BNB
+    schema: staging 
+    tables:
+      - name: listings
+      - name: bookings
+      - name: hosts

@@ -1,0 +1,14 @@
+#added materialization inside models folder
+#we need to add this file only for specific requirements
+#models:
+  #- name: bronze_bookings
+   # config:
+    #  materialized: table
+    
+  #- name: bronze_hosts
+   # config:
+    #  materialized: table
+    
+  #- name: bronze_listings
+   # config:
+    #  materialized: table
